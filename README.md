@@ -2,7 +2,7 @@
 ## 
 
 
-# golang 面试集锦
+# Golang 面试集锦
 [Golang Job Interview Questions]
 
 This file contains a number of interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
@@ -12,11 +12,11 @@ This file contains a number of interview questions that can be used when vetting
 
 ## Table of Contents
 
-  1. [基础类 General Questions](#general-questions)  
+  1. [基础类 General Questions](#基础类)
+  1. [高级类 improve Questions](#高级类)  
   1. [算法类 Algorithms](#算法类)
-  1. [Network Questions](#network-questions)
+  1. [网络类 Network Questions](#网络类)
   1. [Linux Questions](#linux-questions)
-  1. [Windows Questions](#windows-questions)
   1. [Security Questions](#security-questions)
   1. [Cloud Questions](#cloud-questions)
   1. [Architecture Questions](#architecture-questions)
@@ -31,7 +31,7 @@ This file contains a number of interview questions that can be used when vetting
   1. [How to Contribute](https://github.com/rinetd/golang-interview-questions/blob/master/CONTRIBUTING.md)
   1. [License](https://github.com/rinetd/golang-interview-questions/blob/master/LICENSE.md)
 
-#### General Questions
+#### 基础类 General Questions
 
 * What does the term "DevOps" mean to you?
   * "Hard"/hands-on/SRE vs
@@ -43,7 +43,7 @@ This file contains a number of interview questions that can be used when vetting
 * What drew you to DevOps
 * Describe the most challenging situation that you were faced with and how did you fix it?
 * How do you stay current?
-
+### 高级类 improve Questions
 #### 算法类 Algorithms
 
 #### Network Questions
