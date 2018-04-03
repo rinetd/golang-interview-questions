@@ -2,7 +2,8 @@
 ## 
 
 
-# golang 面试集锦[Golang Job Interview Questions]
+# golang 面试集锦
+[Golang Job Interview Questions]
 
 This file contains a number of interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
 
@@ -12,7 +13,7 @@ This file contains a number of interview questions that can be used when vetting
 ## Table of Contents
 
   1. [基础类 General Questions](#general-questions)  
-  1. [算法类 Algorithms](#算法类 Algorithms)
+  1. [算法类 Algorithms](#算法类)
   1. [Network Questions](#network-questions)
   1. [Linux Questions](#linux-questions)
   1. [Windows Questions](#windows-questions)
